@@ -1,0 +1,29 @@
+_repo: The-Veil-and-Other-Poems_52366
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De la Mare, Walter
+    aliases:
+    - De la Mare, Walter John
+    - Mare, Walter de la
+    - Ramal, Walter
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+description: ''
+gutenberg_issued: '2016-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: The Veil, and Other Poems
+url: http://www.gutenberg.org/ebooks/52366
